@@ -14,7 +14,7 @@ Tener node.js instalado
 Node.js LTS and npm packages are available in the Main Repository.
 
 ```
-*apk add nodejs npm*
+apk add nodejs npm
 ```
 
 Node.js Current can be installed from the Community Repository.
@@ -53,4 +53,4 @@ https://nodejs.org/en/download/package-manager
 
 ## Authors
 
-* **Erika Rodríguez** - *Initial work* - [Role13](https://github.com/PurpleBooth)
+* **Erika Rodríguez** - [Role13](https://github.com/Role13)
